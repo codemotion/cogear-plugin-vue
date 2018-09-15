@@ -3,8 +3,8 @@
 	"description": "Enables .vue Single File Components import to the entry points.",
 	"version": "1.0.0",
 	"author": "Dmitriy Beliaev",
-	"repository": "https://github.com/codemotion/cogear-pluing-vue",
-	"homepage": "https://github.com/codemotion/cogear-pluing-vue",
+	"repository": "https://github.com/codemotion/cogear-plugin-vue",
+	"homepage": "https://github.com/codemotion/cogear-plugin-vue",
 	"license": "MIT",
 	"main": "./plugin.js",
 	"dependencies": {
